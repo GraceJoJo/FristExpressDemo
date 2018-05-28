@@ -1,0 +1,26 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jojo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zj593743143/FristExpressDemo.git"
+  },
+  "keywords": [
+    "xiaoya"
+  ],
+  "bugs": {
+    "url": "https://github.com/zj593743143/FristExpressDemo/issues"
+  },
+  "homepage": "https://github.com/zj593743143/FristExpressDemo#readme",
+  "description": ""
+}
